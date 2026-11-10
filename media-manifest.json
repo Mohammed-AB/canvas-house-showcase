@@ -1,0 +1,16 @@
+{
+  "project": "Canvas House",
+  "reviewed": "2026-11-10",
+  "assets": [
+    {
+      "path": "media/overview.png",
+      "bytes": 868500,
+      "sha256": "e6c390457544abf1816d2cbc691ebc4589c602dd57e46e615deeeebfacf77b84"
+    },
+    {
+      "path": "media/detail.png",
+      "bytes": 1388552,
+      "sha256": "493b3baae41bfa5d87fef6308e805e0480024863221f34b666203c408084f3a9"
+    }
+  ]
+}
