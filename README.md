@@ -8,7 +8,7 @@ Built by **Mohammed Abumtary** · Node.js · browser JavaScript · durable local
 
 ![Canvas House — working demonstration](media/overview.png)
 
-[Demo guide](docs/DEMO.md) · [Engineering notes](docs/ENGINEERING.md) · [Verification & boundaries](docs/VERIFICATION.md)
+[Demo guide](docs/DEMO.md) · [Engineering notes](docs/ENGINEERING.md) · [Verification & boundaries](docs/VERIFICATION.md) · [Recorded walkthrough](media/walkthrough.webm)
 
 ## The experience
 

@@ -17,6 +17,9 @@ Pause on the evidence at each decision: quote before generation; durable output 
 
 - [Main screenshot](../media/overview.png)
 - [Second view](../media/detail.png)
+- [Recorded walkthrough](../media/walkthrough.webm)
+
+The walkthrough covers brief selection, lighting, quote review and Arabic layout without approving a new generation. The real generated-and-saved result is documented in the main screenshot and verification notes.
 
 A recording shows a saved run, not a new provider request. Browser viewport checks do not imply physical-device testing.
 
